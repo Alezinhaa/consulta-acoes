@@ -1,4 +1,4 @@
-# Consulta Ações - Atividade de faculdade
+# Consulta ações - Atividade de faculdade
 
 Este projeto foi desenvolvido para a disciplina de **Usabilidade, Desenvolvimento Web, Mobile e Jogos** do **6° semestre** do curso de Sistemas de Informação da **UNISUL**. A atividade tem como objetivo criar uma aplicação web que consulta informações sobre ações financeiras utilizando uma API pública.
 
